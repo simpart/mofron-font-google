@@ -1,0 +1,23 @@
+{
+  "name": "mofron-font-google",
+  "version": "0.0.1",
+  "description": "google font for mofron",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simpart/mofron-font-google.git"
+  },
+  "keywords": [
+    "front",
+    "end"
+  ],
+  "author": "simparts",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/simpart/mofron-font-google/issues"
+  },
+  "homepage": "https://github.com/simpart/mofron-font-google#readme"
+}
